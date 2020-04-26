@@ -31,3 +31,8 @@ body {
   font-size: 1.5rem;
   font-style: italic;
 }
+.flag {
+    width: 4vw;
+    height: 2.5vw;
+    padding: 1vw;
+}
